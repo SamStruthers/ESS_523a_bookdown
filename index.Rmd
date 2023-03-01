@@ -1,0 +1,16 @@
+---
+title: "My Bookdown"
+author: "Sam Struthers"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+description: "This is a bookdown repo to showcase all my work from the class ESS 523a which I took in the Spring of 2023"
+---
+
+
+
+# My Intro {-}
+
+This is my example of a bookdown document. Blah blah blah.
+
